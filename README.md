@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![My cart](assets/screenshots/my_cart.png?row=true "My cart") -->
 
-<table>
+<table border=0>
     <tr>
         <td>Login Screen</td>
         <td>Dashboard Screen</td>
@@ -35,6 +35,5 @@ samples, guidance on mobile development, and a full API reference.
     <td><img src="assets/screenshots/dashboard.png" width=100 height=250></td>
     <td><img src="assets/screenshots/product_detail.png" width=100 height=250></td>
     <td><img src="assets/screenshots/my_cart.png" width=100 height=250></td>
-
     </tr>
 </table>
