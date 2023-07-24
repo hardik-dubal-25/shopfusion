@@ -15,10 +15,26 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Login](https://github.com/hardik-dubal-25/shopfusion/blob/f79c3c83baa63b4f68cf78b9a8eb965f471d5649/assets/screenshots/login_screen.png?row=true "Login Screen")
+<!-- ![Login](https://github.com/hardik-dubal-25/shopfusion/blob/f79c3c83baa63b4f68cf78b9a8eb965f471d5649/assets/screenshots/login_screen.png?row=true "Login Screen")
 
 ![Dashboard](assets/screenshots/dashboard.png?row=true "Dashboard")
 
 ![Product Detail](assets/screenshots/product_detail.png?row=true "Product Detail")
 
-![My cart](assets/screenshots/my_cart.png?row=true "My cart")
+![My cart](assets/screenshots/my_cart.png?row=true "My cart") -->
+
+<table>
+    <tr>
+        <td>Login Screen</td>
+        <td>Dashboard Screen</td>
+        <td>Product Detail Screen</td>
+        <td>Cart Screen</td>
+    </tr>
+    <tr>
+    <td><img src="assets/screenshots/login_screen.png" width=100 height=250></td>
+    <td><img src="assets/screenshots/dashboard.png" width=100 height=250></td>
+    <td><img src="assets/screenshots/product_detail.png" width=100 height=250></td>
+    <td><img src="assets/screenshots/my_cart.png" width=100 height=250></td>
+
+    </tr>
+</table>
